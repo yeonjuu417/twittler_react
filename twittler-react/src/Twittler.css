@@ -1,0 +1,27 @@
+.main{
+    width: 800px;
+    height: 100px;
+}
+textarea{
+    width: 500px;
+    height: 100px;
+}
+.submit{
+    width: 100px;
+    height: 100px;;
+}
+button{
+    width:100px;
+    background-color: #5898f8;
+    border: none;
+    color:#fff;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 4px;
+    cursor: pointer;
+}
+ul{
+    border:  1px solid blue;
+}
